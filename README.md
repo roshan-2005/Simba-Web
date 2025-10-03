@@ -50,7 +50,7 @@
 ## 🔗 Live Demo
 
 Experience it yourself:
-👉 *[Live demo link )](https://simba-clothes.netlify.app/)*
+👉 *[Live demo link](https://simba-clothes.netlify.app/)*
 
 ---
 
